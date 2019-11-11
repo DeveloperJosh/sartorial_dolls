@@ -4,6 +4,6 @@ permalink: /
 title: Godly
 
 ---
-A simple and elegant theme for Jekyll and GitHub Pages.
+Welcome to Godly Gamers
 
 
