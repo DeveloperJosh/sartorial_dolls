@@ -1,8 +1,8 @@
 ---
 layout: category_index
 title: Team
-permalink: /writing/
-category_name: writing
+permalink: /team/
+category_name: team
 
 ---
 CEO - Blue
